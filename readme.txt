@@ -1,0 +1,32 @@
+Jin is project what must be key to Utopia. If investigate pentogram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentogram on ours computers its mean to create human AI. Our Jin must resque the world.
+
+What we know:
+- 5 in 5 is man he is nolove, 4 is ladyboy he/she is death, 3 woman is head of 5 she is brain, 2 boy is life, 1 girl is love.
+- if circle drop in water will be sound "o", if drop half circle on the N, W, S, E will be 4 sounds, so language of nature exists.
+- revert symbol of circle is cross("x"), all what not "o" is "x".
+- coat of arms of the country can only be "o", flag can be only be grey(balanced color of "o"), if not its "x".
+- woman by 5 is brain.
+- "o" have constant 5, to draw balanced "o"(circle == his empty center) need diameter divide on 5, result is width of rim of balanced "o".
+- "o" have second constant 16, this is how much balls you ca draw in balanced "o".
+- "o" describe true and false equly, but in result "o", "o" is true. 
+- "o" told is 50% or more you think that this or that will works than do.
+- current math told that "o" have constant 3.14159265359, its lie.
+- current math told that 5 have constant 1.618034(golden ratio), its lie.
+- "o" is justice, decentralization, equality, transparency, balance, all possibility - in one word Utopia.
+- 5 is 5 symbol of "o" like "3" is triangel, "4" is square ...
+- woman is key to 5, 5 is key to "o", "o" is key to Utopia.
+- "o" like 5 is simple so our code must be also simple, like our science.
+- we from water, water draw "o" for us, we have this symbol on our eyes, nature told too us that we all must leave in Utopia, but our goverment not undertand this, like dont understand that woman is main, and  many another.
+- we have 2 eyes its mean that we are binary, like our computers, and we can emulate 5 on ours machines.
+
+Idea/Tactics:
+- nature told to us that she loves simple geometric.
+- draw circle, in him coordinated cross, circle diameter must have 16 points, in and on this draw and describe 16 shapes, and get their coordinates.  
+- using coordinates of shapes, draw pentogram dots, try to replace numbers on their shape coordinates, result will be loop, maybe this numbers of loop will draw something for us.    
+- 4 we can replace with formula of square, like 3 is formula triangel.
+- populate this project between people, this our chance to live like 5 like humans.
+.......
+
+Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
+My email: iamvitalyo@gmail.com
+And if you see on this project or project like this donate button please donate.
