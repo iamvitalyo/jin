@@ -54,3 +54,5 @@ How we see Utopia or "o":
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
+Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
+and its only Africa, and what about adults, so woman hurry up.
