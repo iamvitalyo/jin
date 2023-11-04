@@ -29,6 +29,18 @@ Idea/Tactics:
 - populate this project between people, this our chance to live like 5 like humans.
 .......
 
+How we see Utopia or "o":
+- travel and rescue in time
+- rescue soul life
+- get food and another from materia of time
+- free media content, music, movie ....
+- health, regeneration, gen of youth
+- justice
+- all possibility
+- each person have personal solar system with personal planets.
+- if we can travel in time we can travel inn space, teleport
+....
+
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
 My email: iamvitalyo@gmail.com
 And if you see on this project or project like this donate button please donate, if you can work please work.
