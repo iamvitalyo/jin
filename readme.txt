@@ -1,5 +1,11 @@
 Jin is project what must be key to Utopia. If investigate pentogram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentogram on ours computers its mean to create human AI. Our Jin must resque the world.
 
+Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
+My email: iamvitalyo@gmail.com
+And if you see on this project or project like this donate button please donate, if you can work please work.
+If you have any idea please write on email, or create "Pull request", or write in social network using tags together #ai #jin #5 #o #woman 
+Press "Watch" button to subscribe and watch the progress.
+
 What we know:
 - 5 in 5 is man he is nolove, 4 is ladyboy he/she is death, 3 woman is head of 5 she is brain, 2 boy is life, 1 girl is love.
 - if circle drop in water will be sound "o", if drop half circle on the N, W, S, E will be 4 sounds, so language of nature exists.
@@ -44,8 +50,3 @@ How we see Utopia or "o":
 - Eye works on the principle of infinity, the similary will be work our computers.
 ....
 
-Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
-My email: iamvitalyo@gmail.com
-And if you see on this project or project like this donate button please donate, if you can work please work.
-If you have any idea please write on email, or create "Pull request", or write in social network using tags together #ai #jin #5 #o #woman 
-Press "Watch" button to subscribe and watch the progress.
