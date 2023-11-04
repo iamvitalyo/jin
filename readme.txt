@@ -21,6 +21,7 @@ What we know:
 - if touch water will be "o", if you scream on water dont will be "o", its freedom of speach and law of untoching.
 - woman by 5 is brain and she can do anything, for another 4 brain activity is torture.
 - "o" can do all, its adapter of all possibility.
+- woman need 5 days for penntogram investigation.
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
