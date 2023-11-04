@@ -53,3 +53,4 @@ How we see Utopia or "o":
 ....
 
 Woman please we need your help!
+All files on project are free, you can fork or dowload all and create your own project.
