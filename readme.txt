@@ -31,4 +31,4 @@ Idea/Tactics:
 
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
 My email: iamvitalyo@gmail.com
-And if you see on this project or project like this donate button please donate.
+And if you see on this project or project like this donate button please donate, if you can work please work.
