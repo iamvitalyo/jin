@@ -28,6 +28,8 @@ What we know:
 - woman by 5 is brain and she can do anything, for another 4 brain activity is torture.
 - "o" can do all, its adapter of all possibility.
 - woman need 5 days for penntogram investigation.
+- "o" on our eyes told what we can live only in Utopia, now we not in Utopia, now we survive.
+- "o" told that we dont have Gods or Goddees, so religion is not "o" is "x".
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
