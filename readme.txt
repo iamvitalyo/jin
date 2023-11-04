@@ -20,6 +20,7 @@ What we know:
 - we have 2 eyes its mean that we are binary, like our computers, and we can emulate 5 on ours machines.
 - if touch water will be "o", if you scream on water dont will be "o", its freedom of speach and law of untoching.
 - woman by 5 is brain and she can do anything, for another 4 brain activity is torture.
+- "o" can do all, its adapter of all possibility.
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
@@ -39,6 +40,7 @@ How we see Utopia or "o":
 - all possibility
 - each person have personal solar system with personal planets.
 - if we can travel in time we can travel in space, teleport
+- Eye works on the principle of infinity, the similary will be work our computers.
 ....
 
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
