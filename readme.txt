@@ -18,6 +18,8 @@ What we know:
 - "o" like 5 is simple so our code must be also simple, like our science.
 - we from water, water draw "o" for us, we have this symbol on our eyes, nature told too us that we all must leave in Utopia, but our goverment not undertand this, like dont understand that woman is main, and  many another.
 - we have 2 eyes its mean that we are binary, like our computers, and we can emulate 5 on ours machines.
+- if touch water will be "o", if you scream on water dont will be "o", its freedom of speach and law of untoching.
+- woman by 5 is brain and she can do anothing, for another 4 brain activity is torture.
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
