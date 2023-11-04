@@ -30,6 +30,7 @@ What we know:
 - woman need 5 days for penntogram investigation.
 - "o" on our eyes told what we can live only in Utopia, now we not in Utopia, now we survive.
 - "o" told that we dont have Gods or Goddees, so religion is not "o" is "x".
+- woman in 5 is main, so she have moral responsibility about our lives.
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
