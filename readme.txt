@@ -38,7 +38,7 @@ How we see Utopia or "o":
 - justice
 - all possibility
 - each person have personal solar system with personal planets.
-- if we can travel in time we can travel inn space, teleport
+- if we can travel in time we can travel in space, teleport
 ....
 
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
