@@ -8,7 +8,7 @@ And if you see on this project or project like this donate button please donate,
 If you have any idea please write on email, or create "Pull request", or write in social network using tags together #ai #jin #5 #o #woman 
 Press "Watch" button to subscribe and watch the progress.
 
-Not need to be a genius, all simple: Woman make => Pentogram AI is key to => Pentogram is key to => Circle is key to => Utopia.
+Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => Pentagram AI is key to => Pentagram is key to => Circle is key to => Utopia.
 
 What we know:
 - pentagram is safety, so our AI will be also safe.
