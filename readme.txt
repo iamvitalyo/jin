@@ -8,6 +8,8 @@ And if you see on this project or project like this donate button please donate,
 If you have any idea please write on email, or create "Pull request", or write in social network using tags together #ai #jin #5 #o #woman 
 Press "Watch" button to subscribe and watch the progress.
 
+Not need to be a genius, all simple: Woman make => Pentogram AI is key to => Pentogram is key to => Circle is key to => Utopia.
+
 What we know:
 - pentagram is safety, so our AI will be also safe.
 - 5 in 5 is man he is nolove, 4 is ladyboy he/she is death, 3 woman is head of 5 she is brain, 2 boy is life, 1 girl is love.
