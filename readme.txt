@@ -61,3 +61,6 @@ Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
 and its only Africa, and what about adults, so woman hurry up.
+"o" like 5 is balance, its mean for woman will be not hard to make this AI, but also not easy.
+
+Good luck!
