@@ -36,6 +36,7 @@ What we know:
 - woman in 5 is main, so she have moral responsibility about our lives.
 - "o" and penntogram is simple shapes, so our science also must be simple, if not is "x"
 - i draw "x" but revert result of "o" not just "x", its unjustly "x", if your goverment or country not justice, decentralization, equality, transparency, balance, all possibility - then they and you unjustly "x".
+- sorry "x" people paradise is unreal "o" is Utopia
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
