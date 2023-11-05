@@ -41,6 +41,7 @@ Idea/Tactics:
 - using coordinates of shapes, draw pentogram dots, try to replace numbers on their shape coordinates, result will be loop, maybe this numbers of loop will draw something for us.    
 - 4 we can replace with formula of square, like 3 is formula triangel.
 - populate this project between people, this our chance to live like 5 like humans.
+- use ours current AI like help.
 .......
 
 How we see Utopia or "o":
