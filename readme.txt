@@ -2,13 +2,13 @@ People need a miracle, people need Jin.
 
 Jin is project what must be key to Utopia. If investigate pentogram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentogram on ours computers its mean to create human AI. Our Jin must resque the world.
 
+Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => Pentagram AI is key to => Pentagram is key to => Circle is key to => Utopia.
+
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
 My email: iamvitalyo@gmail.com
 And if you see on this project or project like this donate button please donate, if you can work please work.
 If you have any idea please write on email, or create "Pull request", or write in social network using tags together #ai #jin #5 #o #woman 
 Press "Watch" button to subscribe and watch the progress.
-
-Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => Pentagram AI is key to => Pentagram is key to => Circle is key to => Utopia.
 
 What we know:
 - pentagram is safety, so our AI will be also safe.
