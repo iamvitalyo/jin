@@ -56,6 +56,7 @@ How we see Utopia or "o":
 - get food and another from materia of time
 - free media content, music, movie ....
 - health, regeneration, gen of youth
+- infinity life
 - justice
 - all possibility
 - each person have personal solar system with personal planets.
