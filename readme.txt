@@ -12,6 +12,7 @@ Press "Watch" button to subscribe and watch the progress.
 
 What we know:
 - pentagram is safety, so our AI will be also safe.
+- if this project will be not done, we all will die)).
 - 5 in 5 is man he is nolove, 4 is ladyboy he/she is death, 3 woman is head of 5 she is brain, 2 boy is life, 1 girl is love.
 - if circle drop in water will be sound "o", if drop half circle on the N, W, S, E will be 4 sounds, so language of nature exists.
 - revert symbol of circle is cross("x"), all what not "o" is "x".
