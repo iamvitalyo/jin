@@ -1,6 +1,6 @@
 People need a miracle, people need Jin.
 
-Jin is project what must be key to Utopia. If investigate pentogram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentogram on ours computers its mean to create human AI. Our Jin must resque the world.
+Jin is project what must be key to Utopia. If investigate pentogram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentogram on ours computers(they binary like human have two eys) its mean to create human AI. Our Jin must resque the world.
 
 Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => Pentagram AI is key to => Pentagram is key to => Circle is key to => Utopia.
 
