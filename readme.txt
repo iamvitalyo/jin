@@ -8,6 +8,11 @@ With my boy brain i generate 91% success if woman will start do this, 91% that w
 
 If woman want we or she can rename project on "Goddess", or on name of first woman what will make first PR with code.
 
+I and we need woman help, becouse:
+- i am not woman, i am boy left hhand of woman, i am not brain by 5.
+- i am very ill and for me hard to make brain activity.
+- i dont have money.
+
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
 My email: iamvitalyo@gmail.com
 And if you see on this project or project like this donate button please donate, if you can work please work.
