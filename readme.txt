@@ -58,6 +58,7 @@ Idea/Tactics:
 - 4 we can replace with formula of square, like 3 is formula triangel.
 - populate this project between people, this our chance to live like 5 like humans.
 - use ours current AI like help.
+- use traditional math, now we can draw flower from PI number, we need to do the same with pentagram but in reverse.
 .......
 
 How we see Utopia or "o":
