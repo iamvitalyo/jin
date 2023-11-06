@@ -24,7 +24,7 @@ To investigate "o" we must be "o", what we know:
 - if this project will be not done, we all will die)).
 - 5 in 5 is man he is nolove, 4 is ladyboy he/she is death, 3 woman is head of 5 she is brain, 2 boy is life, 1 girl is love.
 - if circle drop in water will be sound "o", if drop half circle on the N, W, S, E will be 4 sounds, so language of nature exists.
-- revert symbol of circle is cross("x"), all what not "o" is "x".
+- revert symbol of circle is unjustly cross("x"), all what not "o" is "x".
 - coat of arms of the country can only be "o", flag can be only be grey(balanced color of "o"), if not its "x".
 - woman by 5 is brain.
 - "o" have constant 5, to draw balanced "o"(circle == his empty center) need diameter divide on 5, result is width of rim of balanced "o".
