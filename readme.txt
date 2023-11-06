@@ -82,7 +82,7 @@ diameter / 5 = width of rim, so we have constant 5 not 3.14159265359, this formu
 now all works almost fine becouse circle is balance and can forgive us, if 5 / 2 = 2.5 this is step what we can do for error, 
 if > 2.5 system will down(broke), now our math 1....3.14159265359(what we use).....5(must be)
 the same with pentagram golden ratio 1.618034 must be 5 becouse star is 5.
-big plus of contant 5 that she is stabel, she not infinity she more accurate, and our math must be more accurate.
+big plus of constant 5 that she is stabel, she not infinity she more accurate, and our math must be more accurate.
 Maybe PI must be balance of 5 = 2.5 
 
 Woman please we need your help!
