@@ -31,7 +31,7 @@ To investigate "o" we must be "o", what we know:
 - "o" have second constant 16, this is how much balls you ca draw in balanced "o".
 - "o" describe true and false equly, but in result "o", "o" is true. 
 - "o" told is 50% or more you think that this or that will works than do.
-- current math told that "o" have constant 3.14159265359, its lie, maybe will be S = 5 * r^2
+- current math told that "o" have constant 3.14159265359, its lie, maybe will be S = 5 * r^2, but that 5 is contant of circle is true.
 - current math told that 5 have constant 1.618034(golden ratio), its lie.
 - "o" is justice, decentralization, equality, transparency, balance, all possibility - in one word Utopia.
 - 5 is 5 symbol of "o" like "3" is triangel, "4" is square ...
@@ -75,6 +75,14 @@ How we see Utopia or "o":
 - if we can travel in time we can travel in space, teleport
 - Eye works on the principle of infinity, the similary will be work our computers.
 ....
+
+PI not 3.14159265359:
+Circle is balance, so we must find balance in all, to draw balanced circle where rim of him == emptiness inside him we need do this 
+diameter / 5 = width of rim, so we have constant 5 not 3.14159265359, this formula is wrong S = 3.14159265359 * r^2
+now all works almost fine becouse circle is balance and can forgive us, if 5 / 2 = 2.5 this is step what we can do for error, 
+if > 2.5 system will down(broke), now our math 1....3.14159265359(what we use).....5(must be)
+the same with pentagram golden ratio 1.618034 must be 5 becouse star is 5.
+big plus of contant 5 that she is stabel, she not infinity she more accurate, and our math must be more accurate. 
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
