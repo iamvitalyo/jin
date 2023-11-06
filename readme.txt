@@ -50,6 +50,7 @@ To investigate "o" we must be "o", what we know:
 - i draw "x" but revert result of "o" not just "x", its unjustly "x", if your goverment or country not justice, decentralization, equality, transparency, balance, all possibility - then they and you unjustly "x".
 - sorry "x" people paradise is unreal "o" is Utopia, for church is ok to make mistakes becouse there mass is girls and boys, 1 and 2 in pentagram is not brain.
 - our progress told that we Pentagram, 5 is light and we strong in electricity, nuclear, internal combustion engine, and more.
+- Pentagram 3 is brain but maybe 4 and 5 also smart.
 
 Idea/Tactics:
 - nature told to us that she loves simple geometric.
