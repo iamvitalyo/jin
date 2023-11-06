@@ -11,7 +11,7 @@ If woman want we or she can rename project on "Goddess", or on name of first wom
 I and we need woman help, becouse:
 - i am not woman, i am boy left hhand of woman, i am not brain by 5.
 - i am very ill and for me hard to make brain activity.
-- i dont have money.
+- i dont have money to hire womans but if will be donate i can.
 
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
 My email: iamvitalyo@gmail.com
