@@ -6,7 +6,7 @@ Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => P
 
 With my boy brain i generate 91% success if woman will start do this, 91% that will be Utopia.
 
-If woman want we or she can rename project on "Goddess".
+If woman want we or she can rename project on "Goddess", or on name of first woman what will make first PR with code.
 
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
 My email: iamvitalyo@gmail.com
