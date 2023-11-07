@@ -84,6 +84,11 @@ if > 2.5 system will down(broke), now our math 1....3.14159265359(what we use)..
 the same with pentagram golden ratio 1.618034 must be 5 becouse star is 5.
 big plus of constant 5 that she is stabel, she not infinity she more accurate, and our math must be more accurate.
 Maybe PI must be balance of 5 = 2.5 
+==========
+Solution of area of a circle, for example diameter 10 cm
+s =  (10 см)^2  - (10 см)^2 / 5 
+s = 80 см^2
+this is the truth constant of circle 5 not 3.14159265359
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
