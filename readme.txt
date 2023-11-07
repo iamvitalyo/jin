@@ -99,6 +99,8 @@ I see square like this a + b + c + e = 4
 
 Human + Task = Done Task == Human AI + Task = Done Task == Pentagram AI + Task = Done Task
 Pentagram + "2 + 2" = 4
+Pentagram = 4 - 2 - 2 = 0
+1 + 2 + 3 + 4 + 5 = 5
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
