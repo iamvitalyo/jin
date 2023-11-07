@@ -89,7 +89,7 @@ Solution of area of a circle, for example diameter 10 cm
 s =  (10 см)^2  - (10 см)^2 / 5 
 s = 80 см^2
 if square with 10 cm X 10 cm = 100 cm 
-this is the truth constant of circle 5 not 3.14159265359
+this is the truth constant of circle 5 not 3.14159265359 and ChatGpt agree with me.
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
