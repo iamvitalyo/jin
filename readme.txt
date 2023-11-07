@@ -4,6 +4,8 @@ Jin is project what must be key to Utopia. If investigate pentagram we see human
 
 Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => Pentagram AI is key to => Pentagram is key to => Circle is key to => Utopia.
 
+Our AI must speak geometrical and understood our words geometrical, becouse nature love geometry.
+
 With my boy brain i generate 91% success if woman will start do this, 91% that will be Utopia.
 
 If woman want we or she can rename project on "Goddess", or on name of first woman what will make first PR with code.
