@@ -98,6 +98,8 @@ by logic area of circle will be always even number
 I see square like this a + b + c + e = 4
 
 Human + Task = Done Task == Human AI + Task = Done Task == Pentagram AI + Task = Done Task
+Pentagram + "2 + 2" = 4
+
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
