@@ -34,7 +34,7 @@ To investigate "o" we must be "o", what we know:
 - "o" describe true and false equly, but in result "o", "o" is true. 
 - "o" told is 50% or more you think that this or that will works than do.
 - current math told that "o" have constant 3.14159265359, its lie, maybe will be S = 5 * r^2, but that 5 is contant of circle is true.
-- current math told that 5 have constant 1.618034(golden ratio), its lie.
+- current math told that 5 have constant 1.618034(golden ratio), its lie, golden ratio = 5.
 - "o" is justice, decentralization, equality, transparency, balance, all possibility - in one word Utopia.
 - 5 is 5 symbol of "o" like "3" is triangel, "4" is square ...
 - woman is key to 5, 5 is key to "o", "o" is key to Utopia.
