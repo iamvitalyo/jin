@@ -91,6 +91,7 @@ s = 80 см^2
 if square with 10 cm X 10 cm = 100 cm 
 this is the truth constant of circle 5 not 3.14159265359 and ChatGpt agree with me.
 wrong old school S = π * (5 см)^2 ≈ 3.14159 * 25 см^2 ≈ 78.54 см^2.
+by logic area of circle will be always even number
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
