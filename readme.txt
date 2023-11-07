@@ -88,6 +88,7 @@ Maybe PI must be balance of 5 = 2.5
 Solution of area of a circle, for example diameter 10 cm
 s =  (10 см)^2  - (10 см)^2 / 5 
 s = 80 см^2
+if square with 10 cm X 10 cm = 100 cm 
 this is the truth constant of circle 5 not 3.14159265359
 
 Woman please we need your help!
