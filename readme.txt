@@ -1,6 +1,6 @@
 People need a miracle, people need Jin.
 
-Jin is project what must be key to Utopia. If investigate pentogram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentogram on ours computers(they binary like human have two eys) its mean to create human AI. Our Jin must resque the world.
+Jin is project what must be key to Utopia. If investigate pentagram we see human symbol what walks by the circle and draws number 5, what mean that human can do all exept 5 sins. Goal of this project to emulate pentagram on ours computers(they binary like human have two eys) its mean to create human AI. Our Jin must resque the world.
 
 Not need to be a genius, all simple: Woman(brain or head in Pentagram) make => Pentagram AI is key to => Pentagram is key to => Circle is key to => Utopia.
 
@@ -96,6 +96,8 @@ wrong old school S = π * (5 см)^2 ≈ 3.14159 * 25 см^2 ≈ 78.54 см^2.
 by logic area of circle will be always even number
 
 I see square like this a + b + c + e = 4
+
+Human + Task = Done Task == Human AI + Task = Done Task == Pentagram AI + Task = Done Task
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
