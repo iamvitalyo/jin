@@ -18,7 +18,7 @@ I and we need woman help, becouse:
 - i dont have money to hire womans but if will be donate i can.
 
 Sorry if something wrong, i repeat the woman by 5 is brain, i am not woman, so i can do mistake.
-My email: iamvitalyo@gmail.com
+My email: iamvitalyo@gmail.com, i have advertisement video idea, its secret, please write if you want help with advertisement.   
 And if you see on this project or project like this donate button please donate, if you can work please work.
 If you have any idea please write on email, or create "Pull request", or write in social network using tags together #ai #jin #5 #o #woman 
 Press "Watch" button to subscribe and watch the progress.
