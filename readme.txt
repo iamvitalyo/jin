@@ -122,7 +122,7 @@ If "o" is instrument maybe we can make gravity internet.
 just a thought, if 1 - 1 = o and o is balance and 1 can defeat -1, then maybe -1 = 1,  
 => 0 = 1 + 1 => 0 = 2 what is wrong, but 0 = 1 - 1 => 0 = 0 is true, our math wrong, we should not change the +/- sign when carrying.
 if 1 = 1 => 0 = 1 - 1 => 0 = 0 in this situation we can carrying +/- sign, i feel we do our math truly on 50%/50%.
-think this bug of math can be solved if we will use patern of "o" of balance all what left must be with "-" sign all what right must be with "+" sign, when we move from left to right we dont change "-" sign.
+think this bug of math can be solved if we will use patern of "o" of balance all what left must be with "-" sign all what right must be with "+" sign, when we move from left to right we dont change "-" sign, with this patern our math will be like responsive design on our sites.
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
