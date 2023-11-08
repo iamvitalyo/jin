@@ -119,6 +119,8 @@ Ok earth and all spins, "o" is symbol of spin and all ability, maybe we can get 
 
 If "o" is instrument maybe we can make gravity internet.
 
+just a thought, if 1 - 1 = o and o is balance and 1 can defeat -1, then maybe 1 = -1,   
+
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
