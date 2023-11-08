@@ -109,6 +109,9 @@ Pentagram + "2 + 2" = 4
 Pentagram = 4 - 2 - 2 = 0
 1 + 2 + 3 + 4 + 5 = 5
 
+If make big circle around earth, gravity will choose for him balanced position, circle will divide earth on two, on true and false.
+False i think its down by equator, on false part is hard to survive, this part not for life.  
+
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
