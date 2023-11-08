@@ -10,6 +10,8 @@ Our AI must speak geometrical and understood our words geometrical, becouse natu
 Our computers must do this: Pentogram Geometric Symbol + Task Geometric Symbol = Result of task Geometric Symbol.
 
 With my boy brain i generate 91% success if woman will start do this, 91% that will be Utopia.
+Nature told that we must ask the questions in circle, if this idea is true you can calculate by balance, if 50% and more % is true,
+"o" teach us balance so between all statements in this file you calculate avg % of true, if true 50% or more then do.
 
 If woman want we or she can rename project on "Goddess", or on name of first woman what will make first PR with code.
 
