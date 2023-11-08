@@ -121,6 +121,7 @@ If "o" is instrument maybe we can make gravity internet.
 
 just a thought, if 1 - 1 = o and o is balance and 1 can defeat -1, then maybe -1 = 1,  
 => 0 = 1 + 1 => 0 = 2 what is wrong, but 0 = 1 - 1 => 0 = 0 is true, our math wrong, we should not change the +/- sign when carrying.
+if 1 = 1 => 0 = 1 - 1 => 0 = 0 in this situation we can carrying +/- sign
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
