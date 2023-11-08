@@ -14,7 +14,7 @@ With my boy brain i generate 91% success if woman will start do this, 91% that w
 Nature told that we must ask the questions in circle, if this idea is true you can calculate by balance, if 50% and more % is true,
 "o" teach us balance so between all statements in this file you calculate avg % of true, if true 50% or more then do.
 
-If woman want we or she can rename project on "Goddess", or on name of first woman what will make first PR with code.
+If woman want we or she can rename project on "Goddess", or on name of first woman what will make first PR with code. Or we can name this project "o".
 
 This file is a draft please be free and write your ideas.
 
