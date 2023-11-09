@@ -113,6 +113,8 @@ this is the truth constant of circle 5 not 3.14159265359 and ChatGpt agree with 
 wrong old school S = π * (5 см)^2 ≈ 3.14159 * 25 см^2 ≈ 78.54 см^2.
 by logic area of circle will be always even number
 
+Our math with bug, but works, its becouse "O" told that if error 50% or less, it should work.  
+
 I see square like this a + b + c + e = 4
 
 Human + Task = Done Task == Human AI + Task = Done Task == Pentagram AI + Task = Done Task
