@@ -9,7 +9,7 @@ To defeat all evil we need one bullet, one shot, this project is one silver bull
 Our AI must speak geometrical and understood our words geometrical, becouse nature love geometry, we between two languages art and algebra and the balanced language is geometrical.
 Our computers must do this: Pentogram Geometric Symbol + Task Geometric Symbol = Result of task Geometric Symbol.
 With "O" all simple: "o" Geometric Symbol + Task Geometric Symbol = Result is revert task Geometric Symbol.
-In two examples you see balance, now are AI not balanced, example "Give me couple of tea" our current Ai result will be "I dont know how to make tea" and he stop working under question of tea, Pentogram AI is balanced so will be "Give me tea" = he will try to make this tea before you dont told him stop, he will make not materia(words) "Give me tea" to reverse materia "Tea in your hand", balance is base of our human mind, its whole logic of all space, and pentogram walks by circle, all what we do, we do for balance, balance also love, we do what we love we do what is balance.    
+In two examples you see balance, now are AI not balanced, example "Give me couple of tea" our current Ai result will be "I dont know how to make tea" and he stop working under question of tea, Pentogram AI is balanced so will be "Give me tea" = he will try to make this tea before you dont told him stop, he will make not materia(words) "Give me tea" to reverse materia "Tea in your hand", balance is base of our human mind, its whole logic of all space, and pentogram walks by circle, all what we do, we do for balance, balance also love, we do what we love we do what is balance, we do what is "o".    
 
 With my boy brain i generate 91% success if woman will start do this, 91% that will be Utopia.
 
