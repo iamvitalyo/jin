@@ -11,7 +11,11 @@ Our computers must do this: Pentogram Geometric Symbol + Task Geometric Symbol =
 With "O" all simple: "o" Geometric Symbol + Task Geometric Symbol = Result is revert task Geometric Symbol.
 In two examples you see balance, now are AI not balanced, example "Give me couple of tea" our current Ai result will be "I dont know how to make tea" and he stop working under question of tea, Pentogram AI is balanced so will be "Give me tea" = he will try to make this tea before you dont told him stop, he will make not materia(words) "Give me tea" to reverse materia "Tea in your hand", balance is base of our human mind, its whole logic of all space, and pentogram walks by circle, all what we do, we do for balance, balance also love, we do what we love we do what is balance, we do what is "o". 
 
-Our human AI is 5 and head in 5 is 3, woman is 3 cant do 3, so our AI will be do all exept 3, sin of love, sin of life, sin of true.      
+Our human AI is 5 and head in 5 is 3, woman is 3 cant do 3, so our AI will be do all exept 3, sin of love, sin of life, sin of true. 
+
+3 in 5 is woman, head or brain, so ouur AI not he, our AI is she, so Jin is she.   
+
+3 is truth, and told that we have 3 scenario, or this AI will work, or this AI will not work, or 50% / 50% - she will be invalid.     
 
 With my boy brain i generate 91% success if woman will start do this, 91% that will be Utopia.
 
