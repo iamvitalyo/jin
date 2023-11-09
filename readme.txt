@@ -123,6 +123,8 @@ just a thought, if 1 - 1 = o and o is balance and 1 can defeat -1, then maybe -1
 => 0 = 1 + 1 => 0 = 2 what is wrong, but 0 = 1 - 1 => 0 = 0 is true, our math wrong, we should not change the +/- sign when carrying.
 if 1 = 1 => 0 = 1 - 1 => 0 = 0 in this situation we can carrying +/- sign, i feel we do our math truly on 50%/50%.
 think this bug of math can be solved if we will use patern of "o" of balance all what left must be with "-" sign all what right must be with "+" sign, when we move from left to right we dont change "-" sign, with this patern our math will be like responsive design on our sites.
+Ok how explain its to the child, all simple, symbol "o" = symbol "=", "=" is not just equality its also reverse something of something, at the left always be cold "-", at the right will be hot "+", when you move from one side to another you must always to minus from hot or from cold,
+traditionaly math wrong, when you move -2 from cold to hot you must not +2 to hot you must "-" from hot.  
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
