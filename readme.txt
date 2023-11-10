@@ -138,6 +138,8 @@ traditionaly math wrong, when you move -2 from cold to hot you must not +2 to ho
 and circle symbol of balance told if split "o" you will have two symbols "c" and revert "c".
 Maybe formula of probability is also wrong.
 
+How much finished our product will cost, it must be free, but our AI can told that price = development time.
+
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
