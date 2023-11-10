@@ -155,6 +155,8 @@ if 3 or more then its truth. This is collective mind.
 
 We need to do refactoring of our math, when must sync our math with "o", with nature.  
 
+Or AI must understood shapes, generate shapes, she must choose between lie and true, i think we must just run our AI, and she must try to contact with us.
+
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
