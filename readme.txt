@@ -148,6 +148,9 @@ What if everything is recursive and in the smallest particle of matter we will s
 
 Always need to find balance, maybe for this work we need woman with age 50 and more years, before 50 by "o" its past.
 
+Pentagram is symbol of mind and symbol of truth, maybe we need a site where we vote for the truth, where we can rate innformation from 0 to 5,
+if 3 or more then its truth. This is collective mind.
+
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
