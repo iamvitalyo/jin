@@ -1,4 +1,4 @@
-We move here https://github.com/iamvitalyo/Aphrodite
+Project moved here https://github.com/iamvitalyo/Aphrodite
 
 People need a miracle, people need Jin.
 
