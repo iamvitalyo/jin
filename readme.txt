@@ -142,6 +142,8 @@ How much finished our product will cost, it must be free, but our AI can told th
 
 We 5 at the left side of circle, at the right we have also symbols of minds, so we not alone, and alien exists, and they vvery smart, maybe if we will raise gray flag they will help us. 
 
+What if everything is recursive and in the smallest particle of matter we will see the universe.
+
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
 Need to check this information but i will write: statistics of child death on African continent - 1 child / per 10 seconds, 
