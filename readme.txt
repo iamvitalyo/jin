@@ -151,7 +151,9 @@ Always need to find balance, maybe for this work we need woman with age 50 and m
 Pentagram is symbol of mind and symbol of truth, maybe we need a site where we vote for the truth, where we can rate innformation from 0 to 5,
 if 3 or more then its truth. This is collective mind.
 
-"O" have many shapes of mind, not only 5 is mind, so what not in circle is not mind.  
+"O" have many shapes of mind, not only 5 is mind, so what not in circle is not mind.
+
+We need to do refactoring of our math, when must sync our math with "o", with nature.  
 
 Woman please we need your help!
 All files on project are free, you can fork or dowload all and create your own project.
